@@ -2,7 +2,7 @@
 
 En este repo encontraras un tutorial de como usar Embeddings v3 de OpenAI, tanto en openai como azure, y ejemplos practicos de los primeros casos de uso
 
-![Embeddings][https://cdn.openai.com/new-and-improved-embedding-model/draft-20221214a/vectors-2.svg]
+![Embeddings](https://cdn.openai.com/new-and-improved-embedding-model/draft-20221214a/vectors-2.svg)
 
 ## Tecnologias
 
