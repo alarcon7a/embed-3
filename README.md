@@ -19,4 +19,4 @@ En este repo encontraras un tutorial de como usar Embeddings v3 de OpenAI, tanto
 ## Youtube 📺
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
-https://youtu.be/lvBIuL2ByCk
+https://youtu.be/CUTZhIATIC4
